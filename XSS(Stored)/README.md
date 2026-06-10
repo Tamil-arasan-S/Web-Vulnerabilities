@@ -5,7 +5,7 @@ The injected codes are stored permanently in the server and whenever the end use
 ## An example scenario
 
 ## Attacker side:
- The attacker finds the endpoint where it is vulnerable to the stored XSS, this endpoint is usually the the input areas where the users can enter the information like serachbox, comment section etc. Once the attacker confirms that the endpoint is vulnerable to the XSS(Stored), the attackers injects the malicious script in the endpoint, so that whenver the end user access or by the social engineering attack of clicking the malicious script injected sites, the attacker will be able to perform the targeteda action.
+ The attacker finds the endpoint where it is vulnerable to the stored XSS, this endpoint is usually the the input areas where the users can enter the information like forum posts, comment section etc. Once the attacker confirms that the endpoint is vulnerable to the XSS(Stored), the attackers injects the malicious script in the endpoint, the attacker will be able to perform the targeted action.
 
 ## User side:
  The user would normally access the section that is malicious script injected, the browser doesn't knows whether the action is malicious or not and without the user's knowledge the script would be executed. This would happen until the injected script is removed from the web server.
