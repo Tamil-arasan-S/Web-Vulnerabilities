@@ -22,5 +22,7 @@ Then with the solution, realised that the even the response is immportant during
 
 Knowledge Learnt:
  > Give equal importance to the response section of the burp. What's getting stored in the server is also important.
+
  > Even a ',' plays a major role
+
  > Have the habit of exploring each and every element and features in the Web-App
