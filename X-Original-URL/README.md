@@ -8,4 +8,5 @@ This is exactly what we perform in this lab, we will be adding the X-Original-UR
 
 When we try the access the `/admin` panel, it says `Access denied`, which is a front-end block. We can bypass this by adding only `/` in the request method and a non-standard HTTP header named `X-Original-URL: /admin`. By this we can acess the admin panel and perform the targeted action.
 
-![Uploading image.png…]()
+<img width="1490" height="775" alt="image" src="https://github.com/user-attachments/assets/8169812b-7618-4208-aad8-e576e67e46cc" />
+
